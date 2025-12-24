@@ -187,7 +187,7 @@ g++ -std=c++17 -Wall -O2 caudio.cpp directory_manager.cpp -o caudio.exe
 
 ## 📄 许可证
 
-本项目采用开源许可证，欢迎自由使用和修改。
+本项目采用MIT开源许可证，欢迎自由使用和修改。
 
 ## 🤝 支持与反馈
 
